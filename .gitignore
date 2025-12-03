@@ -1,0 +1,45 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Large ML files
+models/
+data/
+datasets/
+*.joblib
+*.npz
+*.npy
+*.pkl
+*.cbm
+features_advanced/
+*.npy
+# System
+.DS_Store
+Thumbs.db
+.vscode/
+# Virtual Env
+venv/
+
+# Caches
+__pycache__/
+*.pyc
+
+# Large model files & datasets
+*.joblib
+*.cbm
+*.npy
+*.npz
+*.pkl
+models/
+datasets/
+data/
+hockey/
+ucf101/
+frames/
+sequences/
+
+# System files
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,106 @@
+[2025-11-18 08:52:01] Track 3: RUNNING detected
+[2025-11-18 08:52:14] Track 6: RUNNING detected
+[2025-11-18 08:52:22] Track 9: RUNNING detected
+[2025-11-18 08:52:24] Track 6: RUNNING detected
+[2025-11-18 08:52:28] Track 11: RUNNING detected
+[2025-11-18 10:52:20] Track 0: RUNNING detected
+[2025-11-18 10:52:21] Track 0: RUNNING detected
+[2025-11-18 10:52:22] Track 0: RUNNING detected
+[2025-11-18 10:52:23] Track 2: RUNNING detected
+[2025-11-18 10:52:26] Track 5: RUNNING detected
+[2025-11-18 10:52:31] Track 8: RUNNING detected
+[2025-11-18 10:52:33] Track 0: LOITERING detected
+[2025-11-18 10:52:34] Track 5: RUNNING detected
+[2025-11-18 10:52:34] Track 2: RUNNING detected
+[2025-11-18 10:52:35] Track 0: LOITERING detected
+[2025-11-18 10:52:37] Track 9: RUNNING detected
+[2025-11-18 10:52:37] Track 0: RUNNING detected
+[2025-11-18 10:52:38] Track 8: RUNNING detected
+[2025-11-18 10:52:39] Track 0: LOITERING detected
+[2025-11-18 10:52:40] Track 0: LOITERING detected
+[2025-11-18 10:52:42] Track 10: RUNNING detected
+[2025-11-18 10:52:45] Track 0: RUNNING detected
+[2025-11-18 10:52:46] Track 8: RUNNING detected
+[2025-11-18 10:52:46] Track 8: LOITERING detected
+[2025-11-18 10:52:50] Track 0: LOITERING detected
+[2025-11-18 10:52:50] Track 8: LOITERING detected
+[2025-11-18 10:52:51] Track 10: RUNNING detected
+[2025-11-18 10:52:51] Track 12: RUNNING detected
+[2025-11-18 10:52:53] Track 8: LOITERING detected
+[2025-11-18 10:52:53] Track 10: LOITERING detected
+[2025-11-18 10:52:54] Track 13: RUNNING detected
+[2025-11-18 10:52:55] Track 10: LOITERING detected
+[2025-11-18 10:52:56] Track 8: LOITERING detected
+[2025-11-18 10:52:58] Track 10: LOITERING detected
+[2025-11-18 10:52:59] Track 8: LOITERING detected
+[2025-11-18 13:13:39] Track 0: RUNNING detected
+[2025-11-18 13:13:41] Track 0: RUNNING detected
+[2025-11-18 13:13:48] Track 0: RUNNING detected
+[2025-11-18 13:13:48] Track 1: RUNNING detected
+[2025-11-18 13:13:54] Track 0: LOITERING detected
+[2025-11-18 13:13:54] Track 1: LOITERING detected
+[2025-11-18 13:14:01] Track 1: RUNNING detected
+[2025-11-18 13:14:02] Track 1: LOITERING detected
+[2025-11-18 13:14:03] Track 0: LOITERING detected
+[2025-11-18 13:14:03] Track 1: LOITERING detected
+[2025-11-18 13:14:06] Track 0: LOITERING detected
+[2025-11-18 13:14:07] Track 3: LOITERING detected
+[2025-11-18 13:14:07] Track 3: RUNNING detected
+[2025-11-18 13:14:07] Track 1: RUNNING detected
+[2025-11-18 13:14:07] Track 3: LOITERING detected
+[2025-11-18 13:21:49] Possible FIGHT detected between ID 1 and ID 2
+[2025-11-18 13:21:49] Possible FIGHT detected between ID 1 and ID 3
+[2025-11-18 13:21:50] Possible FIGHT detected between ID 1 and ID 4
+[2025-11-18 13:21:51] Possible FIGHT detected between ID 1 and ID 4
+[2025-11-18 13:21:51] Possible FIGHT detected between ID 1 and ID 4
+[2025-11-18 13:21:52] Possible FIGHT detected between ID 1 and ID 4
+[2025-11-18 13:21:52] Possible FIGHT detected between ID 1 and ID 4
+[2025-11-18 13:21:52] Possible FIGHT detected between ID 2 and ID 5
+[2025-11-18 13:21:53] Possible FIGHT detected between ID 1 and ID 4
+[2025-11-18 13:21:57] Possible FIGHT detected between ID 5 and ID 6
+[2025-11-18 13:21:58] Possible FIGHT detected between ID 5 and ID 6
+[2025-11-18 13:21:58] Possible FIGHT detected between ID 5 and ID 6
+[2025-11-18 13:21:59] Possible FIGHT detected between ID 5 and ID 6
+[2025-11-18 14:05:36] Possible FIGHT detected between ID 2 and ID 3
+[2025-11-18 14:05:36] Possible FIGHT detected between ID 2 and ID 3
+[2025-11-18 14:05:37] Possible FIGHT detected between ID 2 and ID 3
+[2025-11-18 14:05:37] Possible FIGHT detected between ID 2 and ID 3
+[2025-11-18 14:05:38] Possible FIGHT detected between ID 2 and ID 3
+[2025-11-18 14:05:41] Possible FIGHT detected between ID 5 and ID 6
+[2025-11-18 14:05:42] Possible FIGHT detected between ID 6 and ID 7
+[2025-11-18 14:05:44] Possible FIGHT detected between ID 6 and ID 10
+[2025-11-18 14:07:54] Possible FIGHT detected between ID 0 and ID 1
+[2025-11-18 14:08:06] Possible FIGHT detected between ID 6 and ID 7
+[2025-11-18 14:08:10] Possible FIGHT detected between ID 8 and ID 9
+[2025-11-18 14:08:10] Possible FIGHT detected between ID 8 and ID 9
+[2025-11-18 14:08:14] Possible FIGHT detected between ID 9 and ID 12
+[2025-11-18 14:08:14] Possible FIGHT detected between ID 9 and ID 12
+[2025-11-18 14:08:14] Possible FIGHT detected between ID 9 and ID 12
+[2025-11-18 14:08:15] Possible FIGHT detected between ID 9 and ID 12
+[2025-11-18 14:08:16] Possible FIGHT detected between ID 9 and ID 12
+[2025-11-18 14:27:52] Possible FIGHT detected between ID 2 and ID 7
+[2025-11-18 14:27:53] Possible FIGHT detected between ID 2 and ID 7
+[2025-11-18 14:27:53] Possible FIGHT detected between ID 2 and ID 7
+[2025-11-18 14:27:54] Possible FIGHT detected between ID 2 and ID 7
+[2025-11-18 14:27:54] Possible FIGHT detected between ID 2 and ID 7
+[2025-11-18 14:28:00] Possible FIGHT detected between ID 8 and ID 9
+[2025-11-18 14:28:01] Possible FIGHT detected between ID 8 and ID 9
+[2025-11-18 14:28:01] Possible FIGHT detected between ID 8 and ID 9
+[2025-11-18 14:28:03] Possible FIGHT detected between ID 8 and ID 9
+[2025-11-18 14:28:03] Possible FIGHT detected between ID 8 and ID 10
+[2025-11-18 14:28:04] Possible FIGHT detected between ID 8 and ID 9
+[2025-11-18 14:28:04] Possible FIGHT detected between ID 8 and ID 10
+[2025-11-18 14:28:04] Possible FIGHT detected between ID 8 and ID 9
+[2025-11-18 14:28:04] Possible FIGHT detected between ID 8 and ID 10
+[2025-11-18 14:28:05] Possible FIGHT detected between ID 8 and ID 9
+[2025-11-18 14:28:05] Possible FIGHT detected between ID 8 and ID 10
+[2025-11-18 14:28:05] Possible FIGHT detected between ID 9 and ID 11
+[2025-11-18 14:28:05] Possible FIGHT detected between ID 8 and ID 9
+[2025-11-18 14:28:05] Possible FIGHT detected between ID 8 and ID 10
+[2025-11-18 14:28:05] Possible FIGHT detected between ID 8 and ID 9
+[2025-11-18 14:28:05] Possible FIGHT detected between ID 8 and ID 10
+[2025-11-18 14:28:11] Possible FIGHT detected between ID 10 and ID 14
+[2025-11-18 14:28:14] Possible FIGHT detected between ID 16 and ID 18
+[2025-11-18 14:28:14] Possible FIGHT detected between ID 10 and ID 17
+[2025-11-18 14:28:15] Possible FIGHT detected between ID 10 and ID 17
+[2025-11-18 14:28:20] Possible FIGHT detected between ID 16 and ID 17
