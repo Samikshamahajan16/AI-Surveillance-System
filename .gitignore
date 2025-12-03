@@ -44,3 +44,7 @@ sequences/
 .DS_Store
 Thumbs.db
 .vscode/
+# Do not upload snapshots
+alerts/
+*.jpg
+*.png
